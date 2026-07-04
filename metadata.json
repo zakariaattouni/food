@@ -1,0 +1,8 @@
+{
+  "name": "Remix: دليل الغذاء والمغذيات",
+  "description": "دليل ذكي بالذكاء الاصطناعي للبحث في الأغذية، تفاصيل المغذيات، والمقارنة الغذائية الشاملة لدعم نمط حياتك الصحي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
